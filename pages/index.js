@@ -1,6 +1,9 @@
 import product from '@/sanity-ecommerce/schemas/product'
 import React from 'react'
 
+import {Product, FooterBanner, HeroBanner}
+from '../components';
+
 const Home = () => {
   return (
     <>
